@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=VT323);
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+
+#firstp {
+    font-size: 30px;
+    font-family:'Chewy';
+}
+
+#p {
+
+font-family: 'VT323';
+font-size:20px
+}
+
+body{
+    text-align:center;
+}
+
+#album {
+    width: 450px;
+    border-radius: 30px;
+}
+
+#reasontext{
+    font-family: 'Roboto Condensed', sans-serif;
+}
